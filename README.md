@@ -1,2 +1,2 @@
-# test-link-Rstudio
+# testingR
 Testing linking repository to RStudio
